@@ -6,6 +6,12 @@ I'm Dustin Schau - I work at Gatsby, and I live in the middle of America. A _kin
 
 My goal is to reach three separate audiences, and hopefully provide calls to action, tools, or information to help you in your open source journey. Specifically, I hope I can help those of you who 1) are new to open source, 2) have contributed to open source, but not regularly, or 3) open-source stewards who maintain their own open source projects.
 
+Open Source can be so hugely rewarding. There's the instant adrenaline shot of seeing a project that you created suddenly be used by thousands of people. Seeing the # of stars climb, your repo become a trending repository, and receiving tons of feedback on Github, Twitter, and seemingly every source all coalesce and it's extremely exciting.
+
+After the rush, the pendulum swings to a seemingly depressive state. You've built this thing, probably to serve a need that _you_ had, and now there are tons of issues, PRs, and people are wanting to spin your utility in ways you never conceived. It can be rewarding. It can equally as likely be exhausting and lead to burn-out.
+
+How do we rectify this? How can we create an amazing utility, with a thriving community, and still maintain a healthy work-life balance?
+
 ## Gatsby | Open Source
 
 - Over 2K contributors
@@ -15,12 +21,6 @@ My goal is to reach three separate audiences, and hopefully provide calls to act
 In the same way that you need to nurture a seed to grow into a sturdy redwood, I see a 
 
 ## Trials, Tribulations, and Successes of Open Source
-
-Open Source can be so hugely rewarding. There's the instant adrenaline shot of seeing a project that you created suddenly be used by thousands of people. Seeing the # of stars climb, your repo become a trending repository, and receiving tons of feedback on Github, Twitter, and seemingly every source all coalesce and it's extremely exciting.
-
-After the rush, the pendulum swings to a seemingly depressive state. You've built this thing, probably to serve a need that _you_ had, and now there are tons of issues, PRs, and people are wanting to spin your utility in ways you never conceived. It can be rewarding. It can equally as likely be exhausting and lead to burn-out.
-
-How do we rectify this? How can we create an amazing utility, with a thriving community, and still maintain a healthy work-life balance?
 
 ## Key Ideas
 
