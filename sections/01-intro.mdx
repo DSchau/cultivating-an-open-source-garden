@@ -1,0 +1,32 @@
+import { Title } from '../layouts'
+import { Head } from 'mdx-deck'
+
+import { Fit, Image, ReactNext } from '../components'
+import Social from '../components/social'
+
+<Image src="images/garden.jpg" darken={0.5}>
+  <Fit caps={true} style={{ backgroundColor: 'black', color: 'white', padding: 18 }}>Cultivating an Open Source Garden</Fit>
+  <Fit caps={true} style={{ marginTop: 20 }} max={40}>Dustin Schau</Fit>
+</Image>
+
+<Head>
+  <title>Cultivating an Open Source Garden</title>
+  <meta name='twitter:card' content='summary_large_image' />
+  <meta name='twitter:site' content='@schaudustin' />
+  <meta name='twitter:title' content='Beyond Static with Gatsby, React, and GraphQL - FITC' />
+  <meta name='twitter:description' content='For most of us, “static sites” only work for simple sites, like personal blogs. But static sites can do so much more! In this talk, learn how Gatsby uses React and GraphQL to help you build apps that combine the performance and workflow benefits of static sites with the flexibility and power of server-driven sites, all in a modern dev stack!' />
+</Head>
+
+```notes
+- My name is Dustin Schau
+```
+
+---
+
+<Fit max={100}><code>whoami</code></Fit>
+
+<Social />
+
+---
+
+<Fit caps={true}>My goal...</Fit>

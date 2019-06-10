@@ -1,0 +1,42 @@
+import { Background } from '../layouts'
+import { Fit, Image } from '../components'
+
+import { colors } from '../constants'
+
+export default Background({ background: colors.gatsby, color: 'white' })
+
+<Fit>Gatsby OSS</Fit>
+
+---
+
+<Fit>35K+ Stars</Fit>
+
+---
+
+<Fit>2,000+ Contributors</Fit>
+
+---
+
+<Fit>6400 releases</Fit>
+
+---
+
+<Fit>~100 Merged PRs / week</Fit>
+
+---
+
+<Image src="images/statistics/gatsby.png">
+  <Fit style={{ color: 'black', position: 'absolute', left: 0, bottom: 0 }} max={72}>Gatsby</Fit>
+</Image>
+
+---
+
+<Image src="images/statistics/react.png">
+  <Fit style={{ color: 'black', position: 'absolute', left: 0, bottom: 0 }} max={72}>React</Fit>
+</Image>
+
+---
+
+<Image src="images/statistics/react-native.png">
+  <Fit style={{ color: 'black', position: 'absolute', left: 0, bottom: 0 }} max={72}>React Native</Fit>
+</Image>
