@@ -15,7 +15,8 @@
   "devDependencies": {
     "cross-env": "^5.2.0",
     "if-env": "^1.0.4",
-    "mdx-deck": "^1.7.15"
+    "mdx-deck": "^1.7.15",
+    "sharp-cli": "^1.9.0"
   },
   "dependencies": {
     "@dschau/particles.js": "^2.0.0",
